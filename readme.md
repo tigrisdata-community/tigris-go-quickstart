@@ -4,6 +4,8 @@ This project is a simple web application that demonstrates how to upload files t
 
 All of the code in _main.go_ is heavily commented to better help you understand what each section is doing.
 
+![The Tigris file manager app](./img/app.png)
+
 ## What is Tigris
 
 Tigris is a globally distributed, S3-compatible object storage service that provides low-latency access to files.
@@ -14,7 +16,7 @@ Learn more at [tigrisdata.com](https://www.tigrisdata.com/).
 
 This project is designed to be easily deployed to Fly.io.
 
-> Before you get started, make sure you have a Fly.io account and the fly CLI installed on your computer.
+> Before you get started, make sure you have a [Fly.io](https://fly.io) account and the fly CLI installed on your computer.
 
 Start by cloning the project to your computer:
 
